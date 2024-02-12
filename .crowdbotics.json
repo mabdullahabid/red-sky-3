@@ -1,0 +1,14 @@
+{
+  "scaffold": {
+    "type": "react-native",
+    "version": "2.6.3",
+    "cookiecutter_context": {
+      "project_name": "Red Sky",
+      "project_slug": "red_sky_3",
+      "project_dash_slug": "red-sky-3",
+      "project_description": "This react_native application was built with Crowdbotics www.crowdbotics.com",
+      "owner_email": "cb+loadtest2@abd.dev",
+      "ssh_key_fingerprint": ""
+    }
+  }
+}
